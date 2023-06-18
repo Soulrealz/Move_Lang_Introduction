@@ -1,0 +1,22 @@
+---
+compiled_package_info:
+  package_name: introduction
+  address_alias_instantiation:
+    std: "00000000000000000000000000000001"
+  source_digest: 1ABDEE1545C37630044E9B8E936F41AB929EA45C06B29312715BEC7CE462FF4E
+  build_flags:
+    dev_mode: true
+    test_mode: true
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    lock_file: ~
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: false
+    bytecode_version: ~
+dependencies:
+  - MoveNursery
+  - MoveStdlib
